@@ -228,6 +228,7 @@
             "sourceRepoURL": "http://www.jointjs.com/",
             "asOfVersion": "1.1.0"
         },
+        {
             "libraryName": "JSNLog",
             "typingsPackageName": "jsnlog",
             "sourceRepoURL": "https://github.com/mperdeck/jsnlog.js",
